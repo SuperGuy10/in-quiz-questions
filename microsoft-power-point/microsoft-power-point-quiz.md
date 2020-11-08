@@ -142,7 +142,7 @@ Answers needed
 
     Pyramid
     Relationship
-    Hierarchy
+    = Hierarchy
     Matrix
 
 #### Q19. When printing multiple handouts, which option will group multipage documents together and make them easier to distribute?

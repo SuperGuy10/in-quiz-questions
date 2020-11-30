@@ -116,9 +116,9 @@ Object-Oriented Programming (OOP) Assessment
 - **A default constructor cannot be defined by the coder** <<-- correct
 
 #### Q18. Which of the following is NOT an advantage of using getters and setters?
-- Getters and setters can speed up compilation.
+- Getters and setters can speed up compilation.   <<-- correct
 - Getters and setters provide encapsulation of behavior.
-- Getters and setters provide a debugging point for when a property changes at runtime. <<--- picked this one not sure if its correct!
+- Getters and setters provide a debugging point for when a property changes at runtime. 
 - Getters and setters permit different access levels.
 
 #### Q19. In context of OOP, what is association?
